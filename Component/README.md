@@ -8,7 +8,7 @@ animationeffect : backgroundTransition |
                   SlideLeftDown    | SlideLeftUp   |
                   SlideRightDown   | SlideRightUp  |
                   SlideBottomDown  | SlideBottomUp |
-                  SlideUp          | SlideDown     |
+                  SlideUp          | SlideDown     
 
 ```````
 backgroundTransition is related to the background animations.<br/>
