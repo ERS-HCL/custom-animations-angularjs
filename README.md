@@ -24,7 +24,7 @@ b) percentage of area to be covered in each iteration<br/>
 
 
 ``````````````````````
-#### Speed of Each Iteration : speed/percentageOfArea
+ Speed of Each Iteration : speed/percentageOfArea
  
 ````````````````````````````````
 
