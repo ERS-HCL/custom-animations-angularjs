@@ -4,11 +4,16 @@ params <br/>
 
 ## animationeffect
 ```````
-animationeffect : backgroundTransition | Slide                  
+animationeffect : backgroundTransition | 
+                  SlideLeftDown    | SlideLeftUp   |
+                  SlideRightDown   | SlideRightUp  |
+                  SlideBottomDown  | SlideBottomUp |
+                  SlideUp          | SlideDown     |
 
 ```````
 backgroundTransition is related to the background animations.<br/>
-Slider for sliding
+The remaining are for sliding.<br/>
+SlideUp,SlideDown are related to sliding the element from top.
 
 
 ## params include:
@@ -25,12 +30,11 @@ backgroundColor - to set the backgroundcolor of the element <br/>
 direction : topBottom | leftRight | rightLeft | bottomTop | 
             leftSlideDown   | leftSlideUp  | 
             RightSlideDown  | RightSlideUp | 
-            BottomSlideDown | BottomSlideUp |
-            SlideDown       | SlideUp
+            BottomSlideDown | BottomSlideUp 
+            
 ```
 
 topBottom,leftRight,rightLeft,bottomTop are related to 'backgroundTransition'<br/>
-SlideDown, SlideUp are related to slide the element from top<br/>
 leftSlideDown,leftSlideUp are related to slide the element from left<br/>
 RightSlideDown,RightSlideUp are related to slide the element from right<br/>
 BottomSlideDown, BottomSlideUp are related to the slide the element from bottom<br/>
