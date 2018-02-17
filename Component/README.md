@@ -41,5 +41,5 @@ BottomSlideDown, BottomSlideUp are related to the slide the element from bottom<
 
 Speed of Each Iteration : speed/percentageOfArea
 
-The initial CSS properties are to be given through the contoller.
+The initial CSS properties are to be given through the controller.
 
