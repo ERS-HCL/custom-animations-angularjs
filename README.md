@@ -1,4 +1,4 @@
-# sliding-and-background-animations
+# background-and-sliding-animations
 
 Created custom directive that can :-<br/>
 a) slide down or up, the element in all the 4 directions(top,bottom,left,right).<br/>
