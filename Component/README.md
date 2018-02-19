@@ -62,6 +62,7 @@ topBottom,leftRight,rightLeft,bottomTop are related to 'backgroundTransition'<br
 leftSlideDown,leftSlideUp are related to slide the element from left<br/>
 RightSlideDown,RightSlideUp are related to slide the element from right<br/>
 BottomSlideDown, BottomSlideUp are related to the slide the element from bottom<br/>
+For slide up and down from top, direction not to be mentioned.<br/>
 
 Speed of Each Iteration : speed/percentageOfArea
 
