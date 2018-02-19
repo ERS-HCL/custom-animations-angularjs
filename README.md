@@ -15,7 +15,7 @@ Reset Button   - The Reset Button is used to reset the initial given properties.
 Animate Button - The Animate Button would initiate the related animation.
 
 # View Demo :-
- [Click here](https://plnkr.co/edit/olWqhcm3Au52CqZpSR50)
+Please [Click here](https://plnkr.co/edit/olWqhcm3Au52CqZpSR50)
 
 
  
