@@ -16,7 +16,7 @@ The remaining are for sliding.<br/>
 SlideUp,SlideDown are related to sliding the element from top.
 
 
-## params include:
+## params:
 speed - duration in which the animation to be completed <br/>
 percentageOfArea - part of the area in th element to be covered in each iteration <br/>
 direction - the direction in which the animation to be applied <br/>
