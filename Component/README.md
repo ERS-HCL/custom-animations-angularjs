@@ -1,11 +1,13 @@
 # Input for the directive:-
+```
 <custom-Heading animationeffect='' params="{
               'direction':'',
               'speed':'',
               'percentageOfArea':'',
-              'backgroundColor':''
-          }">specify the content to be in eleement</custom-Heading>
-
+              'backgroundColor':''}">
+   specify the content to be in element
+</custom-Heading>
+```
 
 
 # Attributes of the  Directive :- 
