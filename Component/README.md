@@ -1,10 +1,22 @@
 # Syntax for the directive:-
+
+For the background transition:-
 ```
 <custom-Heading animationeffect='' params="{
               'direction':'',
               'speed':'',
               'percentageOfArea':'',
               'backgroundColor':''}">
+   specify the content to be in element
+</custom-Heading>
+```
+
+For sliding the element:-
+```
+<custom-Heading animationeffect='' params="{
+              'direction':'',
+              'speed':'',
+              'percentageOfArea':''}">
    specify the content to be in element
 </custom-Heading>
 ```
