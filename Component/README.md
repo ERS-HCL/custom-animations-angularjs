@@ -28,16 +28,12 @@ params <br/>
 
 ## animationeffect
 ```````
-animationeffect : backgroundTransition | 
-                  SlideLeftDown    | SlideLeftUp   |
-                  SlideRightDown   | SlideRightUp  |
-                  SlideBottomDown  | SlideBottomUp |
-                  SlideUp          | SlideDown     
+animationeffect : backgroundTransition | Slide
+                   
 
 ```````
 backgroundTransition is related to the background animations.<br/>
-The remaining are for sliding.<br/>
-SlideUp,SlideDown are related to sliding the element from top.
+Slide is for sliding the element.<br/>
 
 
 ## params:
@@ -52,17 +48,18 @@ backgroundColor - to set the backgroundcolor of the element <br/>
 
 ```
 direction : topBottom | leftRight | rightLeft | bottomTop | 
-            leftSlideDown   | leftSlideUp  | 
-            RightSlideDown  | RightSlideUp | 
-            BottomSlideDown | BottomSlideUp 
+            leftSlideDown   | leftSlideUp    | 
+            RightSlideDown  | RightSlideUp   | 
+            BottomSlideDown | BottomSlideUp  |
+            SlideDown       | SlideUp
             
 ```
 
 topBottom,leftRight,rightLeft,bottomTop are related to 'backgroundTransition'<br/>
 leftSlideDown,leftSlideUp are related to slide the element from left<br/>
 RightSlideDown,RightSlideUp are related to slide the element from right<br/>
-BottomSlideDown, BottomSlideUp are related to the slide the element from bottom<br/>
-For slide up and down from top, direction not to be mentioned.<br/>
+BottomSlideDown, BottomSlideUp are related to  slide the element from bottom<br/>
+SlideDown, SlideUp are related to slide the element from top<br/>
 
 Speed of Each Iteration : speed/percentageOfArea
 
