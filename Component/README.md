@@ -1,4 +1,4 @@
-# Input for the directive:-
+# Syntax for the directive:-
 ```
 <custom-Heading animationeffect='' params="{
               'direction':'',
