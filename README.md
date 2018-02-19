@@ -14,7 +14,8 @@ The component along with the buttons(Reset,Animate) can be reused or alone the c
 Reset Button   - The Reset Button is used to reset the initial given properties.
 Animate Button - The Animate Button would initiate the related animation.
 
-# View Demo :- [Click here](https://plnkr.co/edit/olWqhcm3Au52CqZpSR50)
+# View Demo :-
+ [Click here](https://plnkr.co/edit/olWqhcm3Au52CqZpSR50)
 
 
  
