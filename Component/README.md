@@ -1,3 +1,13 @@
+# Input for the directive:-
+<custom-Heading animationeffect='' params="{
+              'direction':'',
+              'speed':'',
+              'percentageOfArea':'',
+              'backgroundColor':''
+          }">specify the content to be in eleement</custom-Heading>
+
+
+
 # Attributes of the  Directive :- 
 animationeffect - slide the element or apply background <br/>
 params <br/>
