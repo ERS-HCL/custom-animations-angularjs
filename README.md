@@ -18,6 +18,10 @@ Animate Button - The Animate Button would initiate the related animation.
 Please [Click here](https://plnkr.co/edit/olWqhcm3Au52CqZpSR50)
 
 
+# Technologies used:- 
+Angular JS, Jquery, CSS3
+
+
  
 ## Here we have more control on the animation by specifying:-
 a) the speed of the animation<br/>
