@@ -8,10 +8,10 @@ b) achieving transition in background application from all the 4 directions(top,
     <img  alt="component" src="img/img.png"/>
 </p>
 
-# Getting Started:-
+
 The component along with the buttons(Reset,Animate) can be reused or alone the component can be reused.
 
-Reset Button   - The Reset Button is used to reset the initial given properties.
+Reset Button   - The Reset Button is used to reset the initial given properties.<br/>
 Animate Button - The Animate Button would initiate the related animation.
 
 # View Demo :-
